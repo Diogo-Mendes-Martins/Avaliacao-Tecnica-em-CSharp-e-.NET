@@ -62,3 +62,7 @@ Requisitos Opcionais:
 ### Como executar
 ```bash
 docker-compose up --build
+
+A API estará disponível em:
+
+http://localhost:5000/swagger/index.html
