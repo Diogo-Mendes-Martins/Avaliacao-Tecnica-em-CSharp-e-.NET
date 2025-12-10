@@ -46,3 +46,19 @@ Requisitos para entrega:
 Requisitos Opcionais:
 1 - Segurança na autenticação da API
 2 - Deve conter teste unitário
+
+
+# API de Empacotamento – Loja do Seu Manoel
+
+
+## Como rodar o projeto
+
+
+### Pré-requisitos
+- Docker
+- Docker Compose
+
+
+### Como executar
+```bash
+docker-compose up --build
