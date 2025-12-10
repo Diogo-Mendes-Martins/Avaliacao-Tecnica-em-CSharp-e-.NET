@@ -1,7 +1,8 @@
 # Avaliacao-Tecnica-em-CSharp-e-.NET
 
 
-Avaliação Técnica .NET
+Avaliação Técnica .NET :
+
 O objetivo da atividade é avaliar o nível técnico, sendo assim mesmo que não consiga executar alguma atividade não desanime, o que iremos avaliar é o processo realizado e até onde chegou com a atividade. 
 
 O tempo de resolução média para Junior é de 6 à 12 horas,  Pleno é 4 à 7 horas e Sênior de 3 à 4 horas.
