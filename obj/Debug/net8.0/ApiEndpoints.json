@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "LojaDoSrManoel.Controllers.OrdersController",
+    "Method": "EmpacotarPedidos",
+    "RelativePath": "api/Orders/empacotar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedidos",
+        "Type": "System.Collections.Generic.List\u00601[[LojaDoSrManoel.Models.Pedido, LojaDoSrManoel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[LojaDoSrManoel.Models.PedidoEmpacotado, LojaDoSrManoel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
