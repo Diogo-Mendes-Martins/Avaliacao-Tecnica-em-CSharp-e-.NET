@@ -66,3 +66,8 @@ docker-compose up --build
 A API estará disponível em:
 
 http://localhost:5000/swagger/index.html
+
+
+
+<img width="1740" height="1109" alt="image" src="https://github.com/user-attachments/assets/4f7598d7-0416-454a-bb3f-82e6fdd14e59" />
+
