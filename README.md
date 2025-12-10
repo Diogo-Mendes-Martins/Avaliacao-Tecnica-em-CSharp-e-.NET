@@ -67,6 +67,6 @@ A API estará disponível em:
 
 http://localhost:5000/swagger/index.html
 
-
+<img width="1740" height="1109" alt="Image" src="https://github.com/user-attachments/assets/81b84f4d-4a50-4da4-8b6c-56f10396103c" />
 
 
